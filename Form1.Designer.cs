@@ -139,7 +139,7 @@
             lblResultado.Name = "lblResultado";
             lblResultado.Size = new Size(98, 28);
             lblResultado.TabIndex = 9;
-            lblResultado.Text = "Resultado";
+            lblResultado.Text = "";
             lblResultado.Click += lblResultado_Click;
             // 
             // btnConfirmar

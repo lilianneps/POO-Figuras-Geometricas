@@ -5,9 +5,9 @@ using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FormasGeometricas.Entidades.Forma
+namespace FormasGeometricas.Entidades
 {
-    internal class Quadrado: Forma
+    public class Quadrado : Forma
     {
         private double lado;
         public Quadrado(double lado)

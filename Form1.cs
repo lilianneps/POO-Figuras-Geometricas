@@ -11,6 +11,16 @@ namespace FormasGeometricas
         public Form1()
         {
             InitializeComponent();
+            lblValor1.Visible = false;
+            txtValor1.Visible = false;
+            lblValor2.Visible = false;
+            txtValor2.Visible = false;
+            lblValor3.Visible = false;
+            txtValor3.Visible = false;
+
+            lblResultado.Text = "";
+            btnCalcular.Enabled = false;
+
 
             comboFiguras.Items.Add("Quadrado");
             comboFiguras.Items.Add("Retângulo");
@@ -149,7 +159,7 @@ namespace FormasGeometricas
                     case "Octágono":
                         if (!double.TryParse(txtValor1.Text, out double ladoO))
                             throw new FormatException();
-                        forma = new Octagono(ladoO);
+                        forma = new Octogono(ladoO);
                         break;
                 }
 
@@ -188,8 +198,8 @@ namespace FormasGeometricas
             if (txtValor3.Visible) txtValor3.Enabled = true;
 
             btnCalcular.Enabled = true;
-            btnConfirmar.Enabled = false;
-            comboFiguras.Enabled = false;
+            //btnConfirmar.Enabled = false;
+            //comboFiguras.Enabled = false;
         }
     }
 }

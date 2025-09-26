@@ -14,3 +14,20 @@ D:\1 - LILIANNE\Area de Trabalho\1-PUC\2025-2\POO\atividades\programaValidador\C
 D:\1 - LILIANNE\Area de Trabalho\1-PUC\2025-2\POO\atividades\programaValidador\Conta Bancaria\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.pdb
 D:\1 - LILIANNE\Area de Trabalho\1-PUC\2025-2\POO\atividades\programaValidador\Conta Bancaria\FormasGeometricas\obj\Debug\net8.0-windows\FormasGeometricas.genruntimeconfig.cache
 D:\1 - LILIANNE\Area de Trabalho\1-PUC\2025-2\POO\atividades\programaValidador\Conta Bancaria\FormasGeometricas\obj\Debug\net8.0-windows\ref\FormasGeometricas.dll
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.Form1.resources
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.csproj.GenerateResource.cache
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.AssemblyInfoInputs.cache
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.AssemblyInfo.cs
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.csproj.CoreCompileInputs.cache
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.sourcelink.json
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.dll
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\refint\FormasGeometricas.dll
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.pdb
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\bin\Debug\net8.0-windows\FormasGeometricas.exe
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\bin\Debug\net8.0-windows\FormasGeometricas.deps.json
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\bin\Debug\net8.0-windows\FormasGeometricas.runtimeconfig.json
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\bin\Debug\net8.0-windows\FormasGeometricas.dll
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\bin\Debug\net8.0-windows\FormasGeometricas.pdb
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\FormasGeometricas.genruntimeconfig.cache
+D:\Faculdade\4º sem\POO\POO-Figuras-Geometricas\obj\Debug\net8.0-windows\ref\FormasGeometricas.dll
